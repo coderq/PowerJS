@@ -1,0 +1,55 @@
+{
+  "name": "powerjs",
+  "version": "0.2.5",
+  "description": "基于Express的Web开发架构",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.12.3",
+    "body-parser": "1.12.2",
+    "express-session": "1.10.4",
+    "serve-favicon": "~2.0.1",
+    "cookie-parser": "1.3.4",
+    "underscore": "~1.7.0",
+    "log4js": "0.6.22",
+    "connect-multiparty": "1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "powerjs"
+  ],
+  "author": {
+    "name": "Richard Z"
+  },
+  "license": "mit",
+  "repository": {
+    "type": "git",
+    "url": "https://code.csdn.net/CoderQ/powerjs"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "gitHead": "1bd2cbb213a06b32cb539ec328c848a3fac239cb",
+  "_id": "powerjs@0.2.5",
+  "_shasum": "27e8717e28450e7fb2e5fe7f5698cdc57e82f990",
+  "_from": "powerjs@*",
+  "_npmVersion": "2.7.6",
+  "_nodeVersion": "0.10.23",
+  "_npmUser": {
+    "name": "coderq",
+    "email": "yongqiang719@126.com"
+  },
+  "dist": {
+    "shasum": "27e8717e28450e7fb2e5fe7f5698cdc57e82f990",
+    "tarball": "http://registry.npmjs.org/powerjs/-/powerjs-0.2.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "coderq",
+      "email": "yongqiang719@126.com"
+    }
+  ],
+  "_resolved": "https://registry.npmjs.org/powerjs/-/powerjs-0.2.5.tgz"
+}
